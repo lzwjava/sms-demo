@@ -18,7 +18,7 @@ public class App extends Application{
 ##发送验证短信，
 
 ```java
-AVOSCloud.requestSMSCode(phone, "SmsDemo", "注册", 10);
+AVOSCloud.requestSMSCode(phone, "应用名称", "操作名称", 10);  //10分钟内有效
 ```
 
 ##判别验证码，
