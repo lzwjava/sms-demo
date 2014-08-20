@@ -1,5 +1,6 @@
 AVOS Cloud中的短信验证示例
-[短信验证码服务](https://cn.avoscloud.com/docs/android_guide.html#短信验证码服务)
+
+见文档[短信验证码服务](https://cn.avoscloud.com/docs/android_guide.html#短信验证码服务)
 
 ##安装
 导入AVOSCloud SDK，
